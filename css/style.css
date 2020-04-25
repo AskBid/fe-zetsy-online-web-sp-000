@@ -15,7 +15,7 @@ body {
 
 .wrapper {
 	width: 960px;
-	margin: 0 auto;
+	#margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
 }
@@ -32,6 +32,7 @@ h1 {
 h2 {
 	color: rgb(111,127,122);
 	font-size: 2em;
+	margin: 0 0 5px;
 }
 
 p  {
@@ -47,7 +48,7 @@ p  {
 /*////////// Section Styles //////////*/
 
 header a {
-	color: rgb(152,173,166);
+	color: rgb(113, 158, 143);
 	text-decoration: none;
 }
 
